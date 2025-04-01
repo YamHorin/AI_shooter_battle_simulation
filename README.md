@@ -1,6 +1,5 @@
 # AI_shooter_battle_simulation
 
-# AI Game Project
 
 ## Project Objective
 
